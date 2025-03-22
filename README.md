@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Web Developer** with a background in **Electronics
 - **VLSI Intern at DXCorr Design** (April 2023 - October 2023)
 
 ## 📫 Contact Me
-- 📧 Email: [=sanandaroy874@gmail.com
+- 📧 Email: sanandaroy874@gmail.com
 - 📞 Phone: +91 8197565387
 
 Looking forward to collaborating on exciting projects! 😊
